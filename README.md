@@ -24,3 +24,17 @@ Once the program solves teh flow field, teh following output is generated-
 In this example, the MoC program is used to compute and graph the contour of a two-dimensional MLN for the expansion of air to a design exit Mach number, Me=2.2. The ratio of specific heat, γ =1.4 and there are 50 characteristics defined to generate the contour. The generated contour is shown in the figure below.
 
 ![Git-MoC-MLN](https://user-images.githubusercontent.com/61012294/165047236-cd0a830e-b932-4071-940b-ef37546b49ac.png)
+
+## Author
+
+Developed and maintained by Daamanjyot Barara.
+
+## Citation
+
+If you use this repository in your research, publications, or other academic work, please cite the software using the citation information provided below - 
+
+Repository: [(https://github.com/Daamanbarara/Nozzle-Design-MoC)](https://github.com/Daamanbarara/Nozzle-Design-MoC)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
