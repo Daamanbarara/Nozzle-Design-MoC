@@ -31,7 +31,7 @@ Developed and maintained by Daamanjyot Barara.
 
 ## Citation
 
-If you use this repository in your research, publications, or other academic work, please cite the software using the citation information provided below - 
+If you use this software in your research or publications, please cite it using the "Cite this repository" option on GitHub. The citation details are provided in the CITATION.cff file.
 
 Repository: [(https://github.com/Daamanbarara/Nozzle-Design-MoC)](https://github.com/Daamanbarara/Nozzle-Design-MoC)
 
